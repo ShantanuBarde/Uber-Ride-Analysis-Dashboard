@@ -51,7 +51,7 @@ This project explores ride-booking data to uncover patterns in customer behavior
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/yourusername/uber-powerbi-project.git
+   git clone https://github.com/ShantanuBarde/Uber-Ride-Analysis-Dashboard.git
 ```
 2. Open `report/Uber_app_analysis.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source path to point to `data/uber.xlsx`, then click **Refresh**.
