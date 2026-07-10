@@ -57,3 +57,19 @@ This project explores ride-booking data to uncover patterns in customer behavior
 3. If prompted, update the data source path to point to `data/uber.xlsx`, then click **Refresh**.
 
 ## 📂 File Structure
+```
+Uber-Ride-Analysis-Dashboard/
+├── data/
+│   └── uber.xlsx              # Raw dataset (150K bookings)
+├── report/
+│   └── Uber_app_analysis.pbix # Power BI report file
+├── Images/
+│   ├── dashboard-home.png
+│   └── dashboard-overview.png
+└── README.md
+```
+
+## 📌 Notes
+
+- Dataset is anonymized/synthetic — no real personal customer data is included.
+- Built as a portfolio/practice project to demonstrate Power BI skills: data modeling, DAX, and dashboard design.
