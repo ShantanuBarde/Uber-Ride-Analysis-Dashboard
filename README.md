@@ -24,10 +24,10 @@ This project explores ride-booking data to uncover patterns in customer behavior
 ## 📸 Dashboard Preview
 
 **Home Page**
-![Dashboard Home](images/dashboard-home.png)
+![Dashboard Home](Images/dashboard-home.png)
 
 **Overview Page**
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
 
 ## 🔍 Key Insights
 
